@@ -2,7 +2,7 @@
 
 **Location:** Bradford, UK | **Email:** itztayyibx@gmail.com  
 
-I am a BSc (Hons) Cyber Security student at Leeds Beckett University seeking a **12-month industrial placement** to gain hands-on experience in information security, threat analysis, and digital forensics. I have a strong foundation in IT systems, networking, Linux, and Python, developed through academic study, home labs, and online platforms.
+I am a BSc (Hons) Cyber Security student at Leeds Beckett University to secure a 12-month industrial placement to gain hands-on experience in information security, threat analysis, and digital forensics. I have a strong foundation in IT systems, networking, Linux, and Python, developed through academic study, home labs, and online platforms.
 
 ---
 
