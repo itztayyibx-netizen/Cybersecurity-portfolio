@@ -1,57 +1,107 @@
-# Tayyib Iqbal – Cybersecurity Learning Portfolio
+# Tayyib Iqbal – Cybersecurity Portfolio
 
-**Location:** Bradford, UK | **Email:** itztayyibx@gmail.com  
+**Location:** Bradford, UK | **Email:** [itztayyibx@gmail.com](mailto:itztayyibx@gmail.com)
 
-I am a BSc (Hons) Cyber Security student at Leeds Beckett University to secure a 12-month industrial placement to gain hands-on experience in information security, threat analysis, and digital forensics. I have a strong foundation in IT systems, networking, Linux, and Python, developed through academic study, home labs, and online platforms.
+I am a final-year BSc (Hons) Cyber Security student at Leeds Beckett University with a strong interest in penetration testing and offensive security. I have developed practical experience through university labs, virtualised home labs, and hands-on security exercises covering network security, ethical hacking, digital forensics, and Linux. I have worked with tools including Nmap, Wireshark, Metasploit, Nikto, Dirb, Hydra, John the Ripper, Autopsy, FTK Imager, and EnCase.
+
+I am currently developing my practical skills through cybersecurity projects and independent learning, with the goal of pursuing a graduate role in penetration testing, cybersecurity, or information security.
 
 ---
 
 ## Skills & Tools
 
-- **Networking & Information Security Fundamentals**  
-- **Linux & Command Line**  
-- **Python (Basic Scripting)**  
-- **Digital Forensics Principles**  
-- **Ethical Hacking & Vulnerability Assessment**  
-- Microsoft Office & IT Systems  
-- Data Protection & Confidentiality  
-- Problem Solving & Analytical Thinking  
-- Communication & Team Collaboration  
+### Cybersecurity
+
+* Ethical Hacking & Penetration Testing
+* Vulnerability Assessment
+* Network Security
+* Digital Forensics
+* Security Fundamentals
+
+### Tools & Technologies
+
+* Nmap
+* Wireshark
+* Metasploit
+* Nikto
+* Dirb
+* Hydra
+* John the Ripper
+* Autopsy
+* FTK Imager
+* EnCase
+* Kali Linux
+* VirtualBox
+* Git & GitHub
+* Python
+* SQL
+
+### Technical Skills
+
+* Linux & Command Line
+* TCP/IP Networking
+* Network Traffic Analysis
+* Digital Evidence Acquisition
+* File and Hash Analysis
+* Python Scripting
+* Problem Solving & Analytical Thinking
 
 ---
 
-## Cyber Projects & Learning Experience
+## Cybersecurity Projects & Learning
 
-- **University Labs:** Hands-on exercises in network security, digital forensics, and ethical hacking.  
-- **Home Lab (VirtualBox):** Practicing Linux, networking, and penetration testing in a controlled environment.  
-- **TryHackMe & Hack The Box:** Completing rooms and challenges to build practical cybersecurity skills.  
+### University Labs
+
+Hands-on practical work covering ethical hacking, penetration testing, network security, digital forensics, computer communications, and programming.
+
+### Virtualised Home Lab
+
+Built and used a controlled VirtualBox environment to practise Linux administration, networking, security testing, and penetration-testing techniques.
+
+### TryHackMe & Hack The Box
+
+Hands-on cybersecurity challenges focused on reconnaissance, enumeration, vulnerability identification, exploitation, and security fundamentals.
 
 ---
 
-## Work Experience Highlights (Relevant Skills)
+## Work Experience Highlights
 
-- **Legal Assistant** – Drafted documents, managed confidential files, and ensured data security.  
-- **Various Customer Service Roles** – Developed communication, teamwork, and problem-solving skills in fast-paced environments.  
+### Legal Assistant
+
+* Handled confidential client information and maintained organised records.
+* Prepared documents and communicated professionally with clients and colleagues.
+* Developed strong attention to detail, organisation, and confidentiality.
+
+### Customer Service & Hospitality Roles
+
+* Developed communication, teamwork, problem-solving, and time-management skills.
+* Worked effectively in busy, high-pressure environments.
+* Demonstrated reliability and professional customer service.
 
 ---
 
 ## Education
 
-- **BSc (Hons) Cyber Security**, Leeds Beckett University | 2024 – Present  
-- **A-Level BTEC in IT (Distinction)**, Dixons Allerton Academy | 2024  
-- **GCSEs** – Maths & English | Grade 5 (B equivalent)  
+**BSc (Hons) Cyber Security**
+Leeds Beckett University | 2024 – Present
+
+**BTEC Level 3 in Information Technology – Distinction**
+Dixons Allerton Academy | 2024
+
+**GCSEs – Maths & English**
+Grade 5
 
 ---
 
 ## Career Goal
 
-To secure a 12-month industrial placement in cybersecurity where I can apply my learning, develop practical skills in **cyber defence and incident response**, and contribute to real-world IT security projects.
+To begin a graduate career in cybersecurity, with a particular interest in penetration testing and offensive security. I aim to apply my knowledge of ethical hacking, network security, Linux, digital forensics, and security tools while continuing to develop my practical skills through hands-on projects and professional experience.
 
 ---
 
 ## Contact
 
-- **Email:** itztayyibx@gmail.com  
-- **LinkedIn:** [http://linkedin.com/in/tayyib-iqbal-672ba7323
-- **TryHackMe:** 
-- **Hack The Box:** 
+* **Email:** [itztayyibx@gmail.com](mailto:itztayyibx@gmail.com)
+* **LinkedIn:** linkedin.com/in/tayyib-iqbal-672ba7323
+* **TryHackMe:**
+* **Hack The Box:**
