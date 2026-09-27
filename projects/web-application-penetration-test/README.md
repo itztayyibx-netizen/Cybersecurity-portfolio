@@ -66,6 +66,10 @@ The application reflected the supplied input into the resulting page and the Jav
 
 This demonstrated that the application did not sufficiently protect the output from user-controlled input.
 
+### Screenshot Evidence
+
+![Reflected XSS demonstration](01-reflected-xss-redacted.png)
+
 ### Potential Impact
 
 Successful exploitation of a reflected XSS vulnerability could potentially allow an attacker to:
@@ -109,6 +113,12 @@ The SQL Injection vulnerability was investigated by:
 7. Demonstrating authentication bypass and access to an administrative account within the lab environment
 
 Manual testing and sqlmap were used during the investigation.
+
+### Screenshot Evidence
+
+![SQL injection error response](02-sql-injection-error.png)
+
+![Burp Suite HTTP request analysis](03-burp-suite-request-redacted.png)
 
 ### Potential Impact
 
@@ -154,6 +164,10 @@ The server trusted the manipulated client-side role information.
 
 This resulted in elevated access within the authorised lab environment.
 
+### Screenshot Evidence
+
+![RBAC cookie testing](05-rbac-cookie-testing-redacted.png)
+
 ### Potential Impact
 
 If an application trusts client-controlled role information, an attacker may be able to modify their assigned privileges.
@@ -184,6 +198,10 @@ Nmap was used within the authorised lab environment to identify available networ
 The reconnaissance stage helped establish the application's attack surface before more detailed web application testing was performed.
 
 Information collected during reconnaissance was used to guide subsequent testing.
+
+### Screenshot Evidence
+
+![Nmap reconnaissance](04-nmap-reconnaissance.png)
 
 ---
 
