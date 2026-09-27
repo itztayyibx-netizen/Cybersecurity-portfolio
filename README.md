@@ -50,6 +50,21 @@ I am currently developing my practical skills through cybersecurity projects and
 
 ## Cybersecurity Projects & Learning
 
+### Web Application Penetration Test
+
+Performed a structured penetration test against an intentionally vulnerable web application within an authorised Hacktivity lab environment.
+
+Identified and investigated:
+
+- Reflected Cross-Site Scripting (XSS)
+- SQL Injection
+- Broken Access Control / insecure RBAC implementation
+
+Used Kali Linux, Burp Suite Community Edition, Nmap, sqlmap, and manual testing techniques to perform reconnaissance, analyse HTTP requests, investigate vulnerabilities, demonstrate controlled exploitation, collect evidence, and recommend remediation.
+
+**Project documentation:** [View Web Application Penetration Test](projects/web-application-penetration-test/)
+
+
 ### University Labs
 
 Hands-on practical work covering ethical hacking, penetration testing, network security, digital forensics, computer communications, and programming.
@@ -58,9 +73,9 @@ Hands-on practical work covering ethical hacking, penetration testing, network s
 
 Built and used a controlled VirtualBox environment to practise Linux administration, networking, security testing, and penetration-testing techniques.
 
-### TryHackMe & Hack The Box
+### Hacktivity Cybersecurity Labs
 
-Hands-on cybersecurity challenges focused on reconnaissance, enumeration, vulnerability identification, exploitation, and security fundamentals.
+Hands-on cybersecurity labs using controlled virtual environments to practise reconnaissance, vulnerability assessment, web security, exploitation techniques, digital forensics, and incident investigation.
 
 ---
 
