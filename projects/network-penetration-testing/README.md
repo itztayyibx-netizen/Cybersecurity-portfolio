@@ -46,6 +46,10 @@ A full port and service scan was performed to identify exposed ports and determi
 
 The results demonstrated how port scanning and service enumeration can be used during the reconnaissance stage of a penetration test to identify potential attack surfaces.
 
+### Screenshot Evidence
+
+![Nmap network reconnaissance and service enumeration](01-nmap-reconnaissance.png)
+
 ## Finding 2 – UnrealIRCd Service Exploitation
 
 Service enumeration identified an UnrealIRCd service within the controlled laboratory environment.
@@ -55,6 +59,10 @@ The Metasploit Framework was used to investigate the service and configure the `
 The relevant target information and exploit options were configured within MSFconsole before the exploit was executed against the authorised laboratory system.
 
 This exercise demonstrated how information discovered during reconnaissance can be used to investigate and validate a known vulnerability within a controlled environment.
+
+### Screenshot Evidence
+
+![Metasploit UnrealIRCd controlled exploitation](02-metasploit-unrealircd.png)
 
 ## Security Impact
 
