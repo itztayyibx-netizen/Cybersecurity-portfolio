@@ -76,6 +76,16 @@ Additional analysis was performed using FoldersReport and EnCase to examine dire
 
 **Project documentation:** [View Digital Forensics Investigation](projects/digital-forensics-investigation/)
 
+### Network Penetration Testing Lab
+
+Performed network penetration testing within an authorised university cybersecurity laboratory environment, using Nmap for network reconnaissance, port scanning, and service enumeration before investigating a vulnerable UnrealIRCd service using the Metasploit Framework.
+
+**Tools:** Kali Linux, Nmap, Metasploit Framework, MSFconsole
+
+**Key activities:** Network reconnaissance, port scanning, service enumeration, vulnerability identification, controlled exploitation, security remediation, and evidence documentation.
+
+**Project documentation:** [View Network Penetration Testing Lab](projects/network-penetration-testing/)
+
 
 ### University Labs
 
