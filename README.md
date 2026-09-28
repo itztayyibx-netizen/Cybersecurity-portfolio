@@ -64,6 +64,18 @@ Used Kali Linux, Burp Suite Community Edition, Nmap, sqlmap, and manual testing 
 
 **Project documentation:** [View Web Application Penetration Test](projects/web-application-penetration-test/)
 
+### Digital Forensics File Analysis & Evidence Investigation
+
+Conducted digital forensic analysis within an authorised university laboratory environment, using FTK Imager to identify unknown file formats through hexadecimal signatures, record MD5 hashes, recover files, and verify the findings.
+
+Additional analysis was performed using FoldersReport and EnCase to examine directory structures and extract system-level information from supplied forensic evidence.
+
+**Tools:** FTK Imager, EnCase, EnScript / System Snapshot, FoldersReport
+
+**Key activities:** File hashing, hexadecimal analysis, file-signature identification, file recovery, directory analysis, forensic evidence examination, and evidence documentation.
+
+**Project documentation:** [View Digital Forensics Investigation](projects/digital-forensics-investigation/)
+
 
 ### University Labs
 
