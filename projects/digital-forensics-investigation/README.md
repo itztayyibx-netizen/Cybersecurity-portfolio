@@ -57,6 +57,12 @@ The MD5 hash recorded during the examination was:
 
 The file was renamed to `BQ.png` and successfully opened, confirming the identified file format.
 
+### Screenshot Evidence
+
+![BQ PNG hexadecimal header](01-bq-png-header.png)
+
+![BQ recovered PNG image](02-bq-recovered-image.png)
+
 ## Finding 2 – GQ File Identification
 
 The unknown file `GQ` was examined using FTK Imager.
@@ -75,6 +81,10 @@ The MD5 hash recorded during the examination was:
 
 The file was renamed to `GQ.rtf` and successfully opened as formatted text, confirming the identified file format.
 
+### Screenshot Evidence
+
+![GQ RTF hexadecimal header](03-gq-rtf-header.png)
+
 ## Finding 3 – LP File Identification
 
 The unknown file `LP` was examined using FTK Imager.
@@ -90,6 +100,10 @@ The MD5 hash recorded during the examination was:
 `d94772b76754d8a015a588d5e9bf010c`
 
 The file was renamed to `LP.zip` and extracted. The successful extraction confirmed that the file contained compressed internal files.
+
+### Screenshot Evidence
+
+![LP ZIP hexadecimal header](04-lp-zip-header.png)
 
 # Additional Forensic Analysis
 
@@ -108,6 +122,10 @@ The results were sorted by size to assist with identifying larger directories an
 
 FoldersReport was useful for preliminary directory analysis, although it was recognised that it does not provide forensic capabilities such as hashing or integrity verification and should therefore be used as a supporting tool rather than as the sole forensic analysis tool.
 
+### Screenshot Evidence
+
+![FoldersReport directory analysis](05-foldersreport-analysis.png)
+
 ## EnCase System Analysis
 
 The supplied `BBasher.E01` forensic evidence file was loaded into EnCase.
@@ -120,6 +138,10 @@ The System Snapshot EnScript was compiled and executed within EnCase. The result
 - User information
 
 This demonstrated how forensic tools can be used to extract system context from supplied forensic evidence.
+
+### Screenshot Evidence
+
+![EnCase System Snapshot analysis](06-encase-system-snapshot.png)
 
 # Skills Demonstrated
 
