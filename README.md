@@ -86,6 +86,15 @@ Performed network penetration testing within an authorised university cybersecur
 
 **Project documentation:** [View Network Penetration Testing Lab](projects/network-penetration-testing/)
 
+### Linux System Hardening & Integrity Protection Lab
+
+Applied defensive Linux security controls within an authorised university cybersecurity laboratory environment to protect files, system logs, configuration directories, and shell access against simulated attacks.
+
+**Tools:** Linux, chmod, chattr, lsattr, mount, findmnt
+
+**Key activities:** Linux file permissions, immutable file protection, append-only logging, read-only filesystem protection, shell execution restriction, security-control validation, and evidence documentation.
+
+**Project documentation:** [View Linux System Hardening & Integrity Protection Lab](projects/linux-system-hardening/)
 
 ### University Labs
 
@@ -119,13 +128,13 @@ Hands-on cybersecurity labs using controlled virtual environments to practise re
 
 ## Education
 
-**BSc (Hons) Cyber Security**
+**BSc (Hons) Cyber Security**  
 Leeds Beckett University | 2024 – Present
 
-**BTEC Level 3 in Information Technology – Distinction**
+**BTEC Level 3 in Information Technology – Distinction**  
 Dixons Allerton Academy | 2024
 
-**GCSEs – Maths & English**
+**GCSEs – Maths & English**  
 Grade 5
 
 ---
@@ -140,5 +149,3 @@ To begin a graduate career in cybersecurity, with a particular interest in penet
 
 * **Email:** [itztayyibx@gmail.com](mailto:itztayyibx@gmail.com)
 * **LinkedIn:** linkedin.com/in/tayyib-iqbal-672ba7323
-* **TryHackMe:**
-* **Hack The Box:**
