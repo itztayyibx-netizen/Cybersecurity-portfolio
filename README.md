@@ -2,9 +2,11 @@
 
 **Location:** Bradford, UK | **Email:** [itztayyibx@gmail.com](mailto:itztayyibx@gmail.com)
 
-I am a final-year BSc (Hons) Cyber Security student at Leeds Beckett University with a strong interest in penetration testing and offensive security. I have developed practical experience through university labs, virtualised home labs, and hands-on security exercises covering network security, ethical hacking, digital forensics, and Linux. I have worked with tools including Nmap, Wireshark, Metasploit, Nikto, Dirb, Hydra, John the Ripper, Autopsy, FTK Imager, and EnCase.
+I am a final-year BSc (Hons) Cyber Security student at Leeds Beckett University with a strong interest in penetration testing and offensive security. I have developed practical experience through university labs, virtualised home labs, and hands-on security exercises covering network security, ethical hacking, digital forensics, and Linux.
 
-I am currently developing my practical skills through cybersecurity projects and independent learning, with the goal of pursuing a graduate role in penetration testing, cybersecurity, or information security.
+I have worked with tools including Nmap, Wireshark, Metasploit, Nikto, Dirb, Hydra, John the Ripper, Autopsy, FTK Imager, EnCase, Burp Suite, and sqlmap.
+
+I am continuing to develop my practical skills through cybersecurity projects and independent learning, with the goal of pursuing a graduate role in penetration testing, cybersecurity, or information security.
 
 ---
 
@@ -12,47 +14,54 @@ I am currently developing my practical skills through cybersecurity projects and
 
 ### Cybersecurity
 
-* Ethical Hacking & Penetration Testing
-* Vulnerability Assessment
-* Network Security
-* Digital Forensics
-* Security Fundamentals
+- Ethical Hacking & Penetration Testing
+- Vulnerability Assessment
+- Web Application Security
+- Network Security
+- Linux System Security
+- Digital Forensics
+- Security Fundamentals
 
 ### Tools & Technologies
 
-* Nmap
-* Wireshark
-* Metasploit
-* Nikto
-* Dirb
-* Hydra
-* John the Ripper
-* Autopsy
-* FTK Imager
-* EnCase
-* Kali Linux
-* VirtualBox
-* Git & GitHub
-* Python
-* SQL
+- Nmap
+- Wireshark
+- Metasploit Framework
+- Burp Suite Community Edition
+- sqlmap
+- Nikto
+- Dirb
+- Hydra
+- John the Ripper
+- Autopsy
+- FTK Imager
+- EnCase
+- Kali Linux
+- VirtualBox
+- Git & GitHub
+- Python
+- SQL
 
 ### Technical Skills
 
-* Linux & Command Line
-* TCP/IP Networking
-* Network Traffic Analysis
-* Digital Evidence Acquisition
-* File and Hash Analysis
-* Python Scripting
-* Problem Solving & Analytical Thinking
+- Linux & Command Line
+- TCP/IP Networking
+- Network Reconnaissance & Service Enumeration
+- Network Traffic Analysis
+- Web Vulnerability Testing
+- Linux System Hardening
+- Digital Evidence Analysis
+- File & Hash Analysis
+- Python Scripting
+- Problem Solving & Analytical Thinking
 
 ---
 
-## Cybersecurity Projects & Learning
+## Cybersecurity Projects
 
 ### Web Application Penetration Test
 
-Performed a structured penetration test against an intentionally vulnerable web application within an authorised Hacktivity lab environment.
+Performed a structured penetration test against an intentionally vulnerable web application within an authorised Hacktivity laboratory environment.
 
 Identified and investigated:
 
@@ -60,13 +69,13 @@ Identified and investigated:
 - SQL Injection
 - Broken Access Control / insecure RBAC implementation
 
-Used Kali Linux, Burp Suite Community Edition, Nmap, sqlmap, and manual testing techniques to perform reconnaissance, analyse HTTP requests, investigate vulnerabilities, demonstrate controlled exploitation, collect evidence, and recommend remediation.
+Used Kali Linux, Burp Suite Community Edition, Nmap, sqlmap, and manual testing techniques to perform reconnaissance, analyse HTTP requests, investigate vulnerabilities, demonstrate controlled exploitation, collect evidence, and consider appropriate remediation.
 
 **Project documentation:** [View Web Application Penetration Test](projects/web-application-penetration-test/)
 
 ### Digital Forensics File Analysis & Evidence Investigation
 
-Conducted digital forensic analysis within an authorised university laboratory environment, using FTK Imager to identify unknown file formats through hexadecimal signatures, record MD5 hashes, recover files, and verify the findings.
+Conducted digital forensic analysis within an authorised university laboratory environment, using FTK Imager to identify unknown file formats through hexadecimal signatures, record MD5 hashes, recover files, and verify findings.
 
 Additional analysis was performed using FoldersReport and EnCase to examine directory structures and extract system-level information from supplied forensic evidence.
 
@@ -96,9 +105,13 @@ Applied defensive Linux security controls within an authorised university cybers
 
 **Project documentation:** [View Linux System Hardening & Integrity Protection Lab](projects/linux-system-hardening/)
 
-### University Labs
+---
 
-Hands-on practical work covering ethical hacking, penetration testing, network security, digital forensics, computer communications, and programming.
+## Additional Practical Experience
+
+### University Cybersecurity Labs
+
+Completed hands-on practical work covering ethical hacking, penetration testing, network security, digital forensics, computer communications, Linux security, and programming.
 
 ### Virtualised Home Lab
 
@@ -106,23 +119,7 @@ Built and used a controlled VirtualBox environment to practise Linux administrat
 
 ### Hacktivity Cybersecurity Labs
 
-Hands-on cybersecurity labs using controlled virtual environments to practise reconnaissance, vulnerability assessment, web security, exploitation techniques, digital forensics, and incident investigation.
-
----
-
-## Work Experience Highlights
-
-### Legal Assistant
-
-* Handled confidential client information and maintained organised records.
-* Prepared documents and communicated professionally with clients and colleagues.
-* Developed strong attention to detail, organisation, and confidentiality.
-
-### Customer Service & Hospitality Roles
-
-* Developed communication, teamwork, problem-solving, and time-management skills.
-* Worked effectively in busy, high-pressure environments.
-* Demonstrated reliability and professional customer service.
+Completed hands-on cybersecurity exercises within controlled virtual environments covering reconnaissance, vulnerability assessment, web security, exploitation techniques, digital forensics, and security investigation.
 
 ---
 
@@ -139,6 +136,28 @@ Hands-on cybersecurity labs using controlled virtual environments to practise re
 
 ---
 
+## Employment
+
+### Customer Service Assistant — Esso Petrol Station, Bradford
+
+- Provide customer service in a busy retail environment.
+- Handle till and card transactions and lottery transactions.
+- Perform cash counting and safe-drop procedures.
+- Maintain accuracy, professionalism, and reliability while handling customer payments.
+
+### Traffic Management Operative — CSP Traffic Management | Leeds United
+
+- Support traffic-management operations while following site safety procedures.
+- Work effectively as part of a team to maintain safe and organised environments.
+- Follow instructions and operational procedures in a busy event environment.
+
+### Hotline Assistant — University of Nottingham | August 2025 & August 2026
+
+- Handled telephone enquiries during busy periods.
+- Provided accurate information and professional assistance to callers.
+- Developed communication, organisation, and customer-service skills.
+
+---
 
 ## Education
 
@@ -155,11 +174,11 @@ Grade 5
 
 ## Career Goal
 
-To begin a graduate career in cybersecurity, with a particular interest in penetration testing and offensive security. I aim to apply my knowledge of ethical hacking, network security, Linux, digital forensics, and security tools while continuing to develop my practical skills through hands-on projects and professional experience.
+To begin a graduate career in cybersecurity, with a particular interest in penetration testing and offensive security. I aim to apply my knowledge of ethical hacking, web security, network security, Linux, and digital forensics while continuing to develop my practical skills through hands-on projects, professional training, and industry experience.
 
 ---
 
 ## Contact
 
-* **Email:** [itztayyibx@gmail.com](mailto:itztayyibx@gmail.com)
-* **LinkedIn:** linkedin.com/in/tayyib-iqbal-672ba7323
+- **Email:** [itztayyibx@gmail.com](mailto:itztayyibx@gmail.com)
+- **LinkedIn:** linkedin.com/in/tayyib-iqbal-672ba7323
