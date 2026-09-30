@@ -18,11 +18,11 @@ No unauthorised or public systems were targeted.
 
 - Linux
 - Linux command line
-- chmod
-- chattr
-- lsattr
-- mount
-- findmnt
+- `chmod`
+- `chattr`
+- `lsattr`
+- `mount`
+- `findmnt`
 
 ## Methodology
 
@@ -116,6 +116,36 @@ Some techniques were intentionally used to demonstrate specific Linux security c
 # Evidence
 
 Selected screenshots from the authorised laboratory exercises demonstrate the configuration and validation of the Linux security controls.
+
+### 1. File Permission Protection
+
+The file permissions were modified to prevent unauthorised users from writing to the protected file.
+
+![File Permission Protection](01-file-permission-protection.png)
+
+### 2. Immutable Log Protection
+
+The immutable file attribute was applied to prevent the protected log file from being modified or deleted.
+
+![Immutable Log Protection](02-immutable-log-protection.png)
+
+### 3. Append-Only Log Protection
+
+The log file was configured as append-only, allowing new information to be added while preventing existing log content from being overwritten.
+
+![Append-Only Log Protection](03-append-only-log-protection.png)
+
+### 4. Read-Only `/etc` Protection
+
+The `/etc` directory was configured as read-only during the laboratory exercise to prevent unauthorised modification of system configuration data.
+
+![Read-Only ETC Protection](04-read-only-etc-protection.png)
+
+### 5. Shell Execution Restriction
+
+Shell execution permissions were restricted during the controlled exercise, preventing the simulated attacker from obtaining shell access.
+
+![Shell Execution Restriction](05-shell-execution-restriction.png)
 
 # Ethical Considerations
 
