@@ -126,6 +126,20 @@ Hands-on cybersecurity labs using controlled virtual environments to practise re
 
 ---
 
+## Certifications & Training
+
+**Cisco — Introduction to Cybersecurity** | 2026
+
+**IBM SkillsBuild — Cybersecurity Fundamentals** | 2026
+
+**PortSwigger Web Security Academy — Practical Web Security Training**
+
+- SQL Injection learning path — **51/51 completed**
+- Cross-Site Request Forgery (CSRF) learning path — **46/46 completed**
+
+---
+
+
 ## Education
 
 **BSc (Hons) Cyber Security**  
