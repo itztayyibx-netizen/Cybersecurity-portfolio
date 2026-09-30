@@ -181,4 +181,4 @@ To begin a graduate career in cybersecurity, with a particular interest in penet
 ## Contact
 
 - **Email:** [itztayyibx@gmail.com](mailto:itztayyibx@gmail.com)
-- **LinkedIn:** linkedin.com/in/tayyib-iqbal-672ba7323
+- **LinkedIn:** [linkedin.com/in/tayyib-iqbal-672ba7323](https://www.linkedin.com/in/tayyib-iqbal-672ba7323/)
